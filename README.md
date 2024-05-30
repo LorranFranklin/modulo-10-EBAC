@@ -8,6 +8,8 @@
   <img alt="Imagem da página na web" src="./images/README.png" width="100%">
 </p>
 
+- [Acesse o projeto finalizado, online](https://modulo-10-ebac.vercel.app/)
+
 ## About
 
 <p>Aqui estamos usando alguns plugins do jQuery para validação de formulários
